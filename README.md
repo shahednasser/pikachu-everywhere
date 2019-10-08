@@ -1,5 +1,5 @@
 # Pikachu Everywhere
-This is the code for the extension in [this tutorial](https://medium.com/@shahedn/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb).
+This is the code for the extension in [this tutorial](https://blog.shahednasser.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu/).
 
 # Install the extension
 1. Clone or download this repository.
