@@ -12,8 +12,7 @@
     "https://some-random-api.ml/*"
   ],
   "background": {
-    "scripts": ["assets/js/background.js"],
-    "persistent": false
+    "service_worker": "assets/js/background.js"
   },
   "icons": {
     "16": "assets/images/icon16.png",
